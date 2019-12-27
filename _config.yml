@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Qian Zheng's homepage!"
+title                    : "Welcome to Qian Zheng (郑乾)'s homepage!"
 title_separator          : "-"
 name                     : &name "Qian Zheng (郑乾)"
 description              : &description "personal description"
