@@ -23,7 +23,7 @@ Wenjia Meng, **Qian Zheng**, Long Yang, Pengfei Li, Gang Pan <br>
 
 **HisRect: Features from Historical Visits and Recent Tweet for Co-Location Judgement** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
-*IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2019 \[[paper](https://pdfs.semanticscholar.org/4914/f51bc2f5a35c0d15924e39a51975c53f9753.pdf)\]
+*IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2019 \[[paper](https://ieeexplore.ieee.org/document/8798877)\]
 
 **A 3D Feature Descriptor Recovered from a Single 2D Palmprint Image** <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
