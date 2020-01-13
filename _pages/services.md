@@ -10,6 +10,7 @@ redirect_from:
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Biometrics Workshop 2018
 
 ### Journal reviewer
+ACM Transactions on Multimedia Computing Communications and Applications <br>
 IEEE Transactions on Image Processing (TIP) <br>
 IEEE Access <br>
 
