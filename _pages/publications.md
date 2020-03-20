@@ -14,7 +14,7 @@ Conference papers
 ======
 **What does Plate Glass Reveal about Camera Calibration** <br>
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://www.dropbox.com/s/88h3r3bpd1xb04y/camera-ready-qian.pdf?dl=0)\]
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://www.dropbox.com/s/3wsnjzv0zv54ql8/cvpr2020.pdf?dl=0)\]
 
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
