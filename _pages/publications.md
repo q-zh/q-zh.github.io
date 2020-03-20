@@ -57,6 +57,12 @@ Gang Pan, Haoyi Ren, Weidong Hua, **Qian Zheng**, Shijian Li<br>
 Journal/Magazine papers
 =====
 
+
+**A Summary Study of Data-Driven Photometric Stereo** <br>
+**Qian Zheng**, Boxin Shi, Gang Pan <br>
+*Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](https://www.dropbox.com/s/yedt765g4kdou6i/data-drive%20ps.pdf?dl=0)\]
+
+
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
 *IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](http://alumni.media.mit.edu/~shiboxin/files/Zheng_TIP19.pdf)\]
