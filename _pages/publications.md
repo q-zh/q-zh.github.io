@@ -16,13 +16,17 @@ Conference papers
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://www.dropbox.com/s/3wsnjzv0zv54ql8/cvpr2020.pdf?dl=0)\]
 
+**Maximum Entropy Reinforcement Learning with Evolution Strategies** <br>
+Longxiang Shi, Shijian Li, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, Gang Pan <br>
+*International Joint Conference on Neural Networks (IJCNN)*, July 2020 \[[paper](https://www.dropbox.com/s/mswqo9gwhy76iym/IJCNN2020.pdf?dl=0)\]
+
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
 
 **Denoising Adversarial Nets for Rain Streak Removal and Reflection Removal** <br>
 **Qian Zheng**, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
-*IEEE International Conference on Image Processing (ICIP)*, September 2019 \[[paper](https://dr.ntu.edu.sg/bitstream/handle/10220/49451/rr2_adversarial.pdf?sequence=1)\]
+*IEEE International Conference on Image Processing (ICIP)*, September 2019 \[[paper](https://www.dropbox.com/s/2834dn4nqk0va82/icip2019.pdf?dl=0)\]
 
 
 
