@@ -16,6 +16,10 @@ Conference papers
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://www.dropbox.com/s/3wsnjzv0zv54ql8/cvpr2020.pdf?dl=0)\]
 
+**LISA: A Learned Index Structure for Spatial Data** <br>
+Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
+*ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)*, June 2020 \[[paper](https://www.dropbox.com/s/c0nwdht9se3aj9s/sigmod2020.pdf?dl=0)\]
+
 **Maximum Entropy Reinforcement Learning with Evolution Strategies** <br>
 Longxiang Shi, Shijian Li, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, Gang Pan <br>
 *International Joint Conference on Neural Networks (IJCNN)*, July 2020 \[[paper](https://www.dropbox.com/s/mswqo9gwhy76iym/IJCNN2020.pdf?dl=0)\]
