@@ -7,7 +7,7 @@ redirect_from:
   - /services
 ---
 ### Program committee member
-Executive Area Chairs Committee (EACC) of Vision And Learning SEminar (VALSE)
+Executive Area Chairs Committee (EACC) of Vision And Learning SEminar (VALSE) <br>
 Committee member of IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Biometrics Workshop 2018
 
 ### Journal reviewer
