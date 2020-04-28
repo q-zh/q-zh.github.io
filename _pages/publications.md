@@ -27,6 +27,8 @@ Longxiang Shi, Shijian Li, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, Gan
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
+\[[poster](https://www.dropbox.com/s/x8k1y1zay9ll0uk/poster-iccv2019.pdf?dl=0)\]
+\[[code](https://github.com/yiming-j/SPLINE-Net)\]
 
 **Denoising Adversarial Nets for Rain Streak Removal and Reflection Removal** <br>
 **Qian Zheng**, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
