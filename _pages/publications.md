@@ -88,7 +88,7 @@ Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
 
 **A 3D Feature Descriptor Recovered from a Single 2D Palmprint Image** <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2016 \[[paper](https://1drv.ms/u/s!AqqMkGs8p4aNgi2_7FMAKpeDlFN-?e=9arujS)\]
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2016 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiO_8G5xLIk2IQrg?e=QvaYIy)\]
 
 
 **Suspecting Less and Doing Better: New Insights on Palmprint Identification for Faster and More Accurate Matching** <br>
