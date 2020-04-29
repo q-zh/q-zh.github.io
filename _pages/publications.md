@@ -14,25 +14,25 @@ Conference papers
 ======
 **What does Plate Glass Reveal about Camera Calibration** <br>
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://www.dropbox.com/s/3wsnjzv0zv54ql8/cvpr2020.pdf?dl=0)\]
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiuRq7p2dzjVROdM?e=RzYNzt)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
-*ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)*, June 2020 \[[paper](https://www.dropbox.com/s/c0nwdht9se3aj9s/sigmod2020.pdf?dl=0)\]
+*ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)*, June 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiWyofT0WDSXkdD6?e=i3uUyv)\]
 
 **Maximum Entropy Reinforcement Learning with Evolution Strategies** <br>
 Longxiang Shi, Shijian Li, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, Gang Pan <br>
-*International Joint Conference on Neural Networks (IJCNN)*, July 2020 \[[paper](https://www.dropbox.com/s/mswqo9gwhy76iym/IJCNN2020.pdf?dl=0)\]
+*International Joint Conference on Neural Networks (IJCNN)*, July 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiagEiF6Zc-Klkm8?e=gqOli3)\]
 
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
-\[[poster](https://www.dropbox.com/s/x8k1y1zay9ll0uk/poster-iccv2019.pdf?dl=0)\]
+\[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNginu2x6LmZ8GdZb0?e=Xh6moj)\]
 \[[code](https://github.com/yiming-j/SPLINE-Net)\]
 
 **Denoising Adversarial Nets for Rain Streak Removal and Reflection Removal** <br>
 **Qian Zheng**, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
-*IEEE International Conference on Image Processing (ICIP)*, September 2019 \[[paper](https://www.dropbox.com/s/2834dn4nqk0va82/icip2019.pdf?dl=0)\]
+*IEEE International Conference on Image Processing (ICIP)*, September 2019 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiRsQvVIMY4rTwIP?e=eCHBWG)\]
 
 
 
@@ -70,12 +70,12 @@ Journal/Magazine papers
 
 **A Summary Study of Data-Driven Photometric Stereo** <br>
 **Qian Zheng**, Boxin Shi, Gang Pan <br>
-*Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](https://www.dropbox.com/s/yedt765g4kdou6i/data-drive%20ps.pdf?dl=0)\]
+*Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiL6uqJcyWxDpx6d?e=tU0rKu)\]
 
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
-*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](http://alumni.media.mit.edu/~shiboxin/files/Zheng_TIP19.pdf)\]
+*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiqt18gyckYKmBS9?e=PYpnuh)\]
 
 **Qualitative Measurements of Policy Discrepancy for Return-based Deep Q-Network** <br>
 Wenjia Meng, **Qian Zheng**, Long Yang, Pengfei Li, Gang Pan <br>
@@ -88,12 +88,12 @@ Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
 
 **A 3D Feature Descriptor Recovered from a Single 2D Palmprint Image** <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2016 \[[paper](https://pdfs.semanticscholar.org/4914/f51bc2f5a35c0d15924e39a51975c53f9753.pdf)\]
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2016 \[[paper](https://1drv.ms/u/s!AqqMkGs8p4aNgi2_7FMAKpeDlFN-?e=9arujS)\]
 
 
 **Suspecting Less and Doing Better: New Insights on Palmprint Identification for Faster and More Accurate Matching** <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
-*IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](http://www4.comp.polyu.edu.hk/~csajaykr/myhome/papers/TIFS2016a.pdf)\]
+*IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgidQeVGRUE62muiS?e=Ry0RKI)\]
 
 
 Patents
