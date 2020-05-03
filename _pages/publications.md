@@ -16,7 +16,7 @@ Conference papers
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiuRq7p2dzjVROdM?e=RzYNzt)\]
 \[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNgi68AvUiC_mBttni?e=7OdPQD)\]
-\[[video](https://1drv.ms/v/s!AqqMkGs8p4aNgi-Is7Ah2ZgHrnfF?e=677l2E)\]
+\[[video](https://1drv.ms/v/s!AqqMkGs8p4aNgi-Is7Ah2ZgHrnfF?e=JezfFD)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
