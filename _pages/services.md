@@ -17,6 +17,7 @@ IEEE Access <br>
 
 ### Conference reviewer
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br>
+British Machine Vision Conference (BMVC) 2020 <br>
 British Machine Vision Conference (BMVC) 2019 <br>
 
 ### Invited talks
