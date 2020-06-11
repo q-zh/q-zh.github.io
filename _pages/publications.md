@@ -72,7 +72,7 @@ Journal/Magazine papers
 
 **A Summary Study of Data-Driven Photometric Stereo** <br>
 **Qian Zheng**, Boxin Shi, Gang Pan <br>
-*Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiL6uqJcyWxDpx6d?e=tU0rKu)\]
+*Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](http://159.226.29.139/vrih/resource/article/unzip/1591689380098/VRIH-2020-3/2-20-00009/VRIH-D-20-00009-final_Qian%20ZHENG_L.pdf?nsukey=FstHoAMQ9RBc9jnnlNxeWBP1zvsQMoP1%2FZwMCqFIaJHMmxold%2BUo2M1zGbfAhWg%2B9kwn2%2FFJAph4q3vjwA41QWAbrviKsKfDWWAUQjK3wsM6GWMZDGMwZb95QJgWW5zKkP89TDMnN0jHHZieQEFRlvI%2Fp9sHRJ94wieNIeOEygBW9p7zeH%2FezoYWJpvooJgXvjP6J%2FfeYvN64JSzGrtKqw%3D%3D)\]
 
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
