@@ -11,6 +11,11 @@ Student Webinar Committee Member of Vision And Learning SEminar (VALSE) <br>
 Executive Area Chairs Committee (EACC) of Vision And Learning SEminar (VALSE) <br>
 Committee member of IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Biometrics Workshop 2018
 
+
+### Awards
+BMVC outstanding reviewer, 2020 <br>
+Zhejiang University outstanding doctoral dissertation fellowship, 2017
+
 ### Journal reviewer
 IEEE Transactions on Image Processing (TIP) <br>
 ACM Transactions on Multimedia Computing Communications and Applications <br>
