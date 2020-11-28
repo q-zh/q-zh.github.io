@@ -77,7 +77,7 @@ Journal/Magazine papers
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
-*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiqt18gyckYKmBS9?e=PYpnuh)\]
+*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgiqt18gyckYKmBS9?e=PYpnuh)\] \[[code](https://github.com/q-zh/numerical-ps/)\]
 
 **Qualitative Measurements of Policy Discrepancy for Return-based Deep Q-Network** <br>
 Wenjia Meng, **Qian Zheng**, Long Yang, Pengfei Li, Gang Pan <br>
