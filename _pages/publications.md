@@ -17,6 +17,7 @@ Conference papers
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNgi68AvUiC_mBttni?e=7OdPQD)\]
 \[[video](https://1drv.ms/v/s!AqqMkGs8p4aNgi-Is7Ah2ZgHrnfF?e=JezfFD)\]
+\[[code](https://github.com/q-zh/GlassCalibration/blob/main/README.md)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
@@ -28,7 +29,7 @@ Longxiang Shi, Shijian Li, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, Gan
 
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
-*IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
+*IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNginu2x6LmZ8GdZb0?e=Xh6moj)\]
 \[[code](https://github.com/yiming-j/SPLINE-Net)\]
 
