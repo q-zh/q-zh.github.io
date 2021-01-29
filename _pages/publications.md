@@ -17,7 +17,7 @@ Conference papers
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNgi68AvUiC_mBttni?e=7OdPQD)\]
 \[[video](https://1drv.ms/v/s!AqqMkGs8p4aNgi-Is7Ah2ZgHrnfF?e=JezfFD)\]
-\[[code](https://github.com/q-zh/GlassCalibration/blob/main/README.md)\]
+\[[code](https://github.com/q-zh/GlassCalibration/)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
