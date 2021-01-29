@@ -71,7 +71,7 @@ Journal/Magazine papers
 
 **An Off-Policy Trust Region Policy Optimization Method With Monotonic Improvement Guarantee for Deep Reinforcement Learning** <br>
 Wenjia Meng, Qian Zheng, Yue Shi, Gang Pan <br>
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 \[[paper](http://159.226.29.139/vrih/resource/article/unzip/1591689380098/VRIH-2020-3/2-20-00009/VRIH-D-20-00009-final_Qian%20ZHENG_L.pdf?nsukey=FstHoAMQ9RBc9jnnlNxeWBP1zvsQMoP1%2FZwMCqFIaJHMmxold%2BUo2M1zGbfAhWg%2B9kwn2%2FFJAph4q3vjwA41QWAbrviKsKfDWWAUQjK3wsM6GWMZDGMwZb95QJgWW5zKkP89TDMnN0jHHZieQEFRlvI%2Fp9sHRJ94wieNIeOEygBW9p7zeH%2FezoYWJpvooJgXvjP6J%2FfeYvN64JSzGrtKqw%3D%3D)\]
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNg2QrXdpfXkXoO_ua?e=eYJMDW)\]
 
 
 
