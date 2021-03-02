@@ -18,11 +18,11 @@ During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) 
 He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 
-<font color=red> News </font>
+News
 ======
-Three papers accepted by CVPR 2021! <br>
-Three papers accepted by AAAI 2021! <br>
-One paper accepted by TNNLS 2021! <br>
+Three papers accepted by **CVPR 2021**! <br>
+Three papers accepted by **AAAI 2021!** <br>
+One paper accepted by **TNNLS 2021!** <br>
 
 Call for long-time interns
 ======
