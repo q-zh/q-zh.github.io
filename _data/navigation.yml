@@ -18,6 +18,5 @@ main:
     url: /publications/
   - title: "Services"
     url: /services/
-    
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "CV"
+    url: /CV/
