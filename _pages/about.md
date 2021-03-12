@@ -20,9 +20,9 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 News
 ======
-Three papers accepted by **CVPR 2021!** <br>
-Three papers accepted by **AAAI 2021!** <br>
-One paper accepted by **TNNLS 2021!** <br>
+Three papers were accepted by **CVPR 2021!** <br>
+Three papers were accepted by **AAAI 2021!** <br>
+One paper was accepted by **TNNLS 2021!** <br>
 
 Call for long-time interns
 ======
