@@ -9,8 +9,7 @@ main:
 #   - title: "Teaching"
 #     url: /teaching/    
     
-#   - title: "Portfolio"
-#     url: /portfolio/
+
         
 
     
@@ -21,4 +20,4 @@ main:
     url: /services/
     
   - title: "CV"
-    url: /cv/
+    url: /portfolio/
