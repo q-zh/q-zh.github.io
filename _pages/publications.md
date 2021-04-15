@@ -61,14 +61,20 @@ Long Yang, Minhao Shi, **Qian Zheng**, Wenjia Meng, Gang Pan <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
 *International Workshop on Biometrics and Forensics (IWBF)*, September 2018 \[[paper](https://ieeexplore.ieee.org/document/8401566)\]
 
+**Crux—A New Fast, Flexible and Decentralized Consensus Algorithm with High Fault Tolerance Rate** <br>
+Pengfei Li, Jingtian Peng, Long Yang, **Qian Zheng**, and Gang Pan <br>
+*International Conference on Smart Blockchain*, 2018 \[paper](https://www.springerprofessional.de/en/crux-a-new-fast-flexible-and-decentralized-consensus-algorithm-w/16321406)\]
 
 **EasyPointer: What You Pointing at is What You Get** <br>
 Gang Pan, Haoyi Ren, Weidong Hua, **Qian Zheng**, Shijian Li<br>
 *CHI'11 Extended Abstracts on Human Factors in Computing Systems*, May 2011 \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3148&rep=rep1&type=pdf)\]
 
 
+
+
 Journal/Magazine papers
 =====
+
 
 **An Off-Policy Trust Region Policy Optimization Method With Monotonic Improvement Guarantee for Deep Reinforcement Learning** <br>
 Wenjia Meng, Qian Zheng, Yue Shi, Gang Pan <br>
@@ -80,6 +86,9 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 \[[paper
 **Qian Zheng**, Boxin Shi, Gang Pan  <br>
 *Virtual Reality & Intelligent Hardware (VRIH)*, 2020 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNg2QrXdpfXkXoO_ua?e=eYJMDW)\]
 
+**Efficient Novelty Search Through Deep Reinforcement Learning** <br>
+Longxiang Shi, Shijian Li, **Qian Zheng**, Min Yao, and Gang Pan <br>
+*IEEE Access*, 2019 \[[paper](https://1drv.ms/b/s!AqqMkGs8p4aNgY0n3fRvRxlwr8i7YQ?e=xyrsFd)\]
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
