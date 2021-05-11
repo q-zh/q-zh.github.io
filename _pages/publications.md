@@ -42,7 +42,7 @@ Peijun Bao, **Qian Zheng** and Yadong Mu* <br>
 Long Yang, **Qian Zheng** and Gang Pan* <br>
 *AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-aaai21-yang1.pdf)\]
 
-**On Convergence of Gradient Expected Sarsa \Lambda** <br>
+**On Convergence of Gradient Expected Sarsa \lambda** <br>
 Long Yang, **Qian Zheng** and Gang Pan* <br>
 *AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-aaai21-yang1.pdf)\]
 
