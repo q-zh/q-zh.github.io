@@ -13,11 +13,11 @@ redirect_from:
 Conference papers
 ======
 **Single Image Reflection Removal with Absorption Effect** <br>
-**Qian Zheng***, Boxin Shi*, Jinnan Chen, Zhan Lu, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2020 \[[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
-\[[poster](https://1drv.ms/b/s!AqqMkGs8p4aNgi68AvUiC_mBttni?e=7OdPQD)\]
-\[[video](https://1drv.ms/v/s!AqqMkGs8p4aNgi-Is7Ah2ZgHrnfF?e=JezfFD)\]
-\[[code](https://github.com/q-zh/GlassCalibration/)\]
+**Qian Zheng***, Boxin Shi*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, June 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
+\[[poster]()\]
+\[[video]()\]
+\[[code]()\]
 
 **What does Plate Glass Reveal about Camera Calibration** <br>
 **Qian Zheng**, Jinnan Chen, Zhan Lu, Boxin Shi, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, Alex C. Kot <br>
