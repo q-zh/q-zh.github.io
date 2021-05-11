@@ -51,8 +51,10 @@ Long Yang, Gang Zheng, Yu Zhang, **Qian Zheng**, Pengfei Li, and Gang Pan* <br>
 
 **Learning with Generated Teammates to Achieve Type-Free Ad-Hoc Teamwork** <br>
 Dong Xing, Qianhui Liu, **Qian Zheng**, and Gang Pan* <br>
-*International Joint Conference on Artificial Intelligence (IJCAI)*, 2018 \[[paper]\]
+*International Joint Conference on Artificial Intelligence (IJCAI)*, 2021 \[[paper]\]
 
+Before 2021
+==
 
 **What does Plate Glass Reveal about Camera Calibration** <br>
 **Qian Zheng***, Jinnan Chen, Zhan Lu, Boxin Shi*, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, and Alex C. Kot <br>
