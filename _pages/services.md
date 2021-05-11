@@ -18,16 +18,23 @@ Zhejiang University outstanding doctoral dissertation fellowship, 2017
 
 ### Journal reviewer
 IEEE Transactions on Image Processing (TIP) <br>
-ACM Transactions on Multimedia Computing Communications and Applications <br>
+ACM Transactions on Multimedia Computing Communications and Applications (TOMM) <br>
 IEEE Access <br>
+IET Computer Vision} 
+Institute of Electronics, Information and Communication Engineers (IEICE) <br>
 
 ### Conference reviewer
-Winter Conference on Applications of Computer Vision (WACV) 2021 <br>
-Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br>
-Asian Conference on Computer Vision (ACCV) 2020 <br>
-International Conference on Pattern Recognition (ICPR) 2020 <br>
-British Machine Vision Conference (BMVC) 2020 <br>
-British Machine Vision Conference (BMVC) 2019 <br>
+
+Conference on Computer Vision and Pattern Recognition (CVPR) <br>
+International Conference on Computer Vision (ICCV) <br>
+International Joint Conference on Artificial Intelligence (IJCAI) <br>
+Asian Conference on Computer Vision (ACCV) <br>
+British Machine Vision Conference (BMVC) <br>
+Winter Conference on Applications of Computer Vision (WACV) <br>
+International Conference on Intelligent Robots and Systems (IROS) <br>
+International Conference on Pattern Recognition (ICPR) <br>
+
+
 
 ### Invited talks
 "Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation", NTU-PKU JRI Workshop, Shenzhen China, December 2019 <br>
