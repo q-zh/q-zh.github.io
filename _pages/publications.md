@@ -14,10 +14,12 @@ Conference papers
 ======
 **Single Image Reflection Removal with Absorption Effect** <br>
 **Qian Zheng***, Boxin Shi*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
+\[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
 \[[poster]\]
 \[[video]\]
 \[[code](https://github.com/q-zh/absorption)\]
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-zheng.pdf)\]
 
 **Indoor Lighting Estimation using an Event Camera** <br>
 Zehao Chen#, **Qian Zheng#**, Peisong Niu, Huajin Tang, and Gang Pan* <br>
@@ -25,7 +27,7 @@ Zehao Chen#, **Qian Zheng#**, Peisong Niu, Huajin Tang, and Gang Pan* <br>
 \[[poster]\]
 \[[video]\]
 \[[code]\]
-
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-chen.pdf)\]
 
 **Panoramic Image Reflection Removal** <br>
 Yuchen Hong#, **Qian Zheng#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Boxin Shi* <br>
@@ -33,6 +35,7 @@ Yuchen Hong#, **Qian Zheng#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Boxin
 \[[poster]\]
 \[[video]\]
 \[[code]\]
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-hong.pdf)\]
 
 **Dense Events Grounding in Video** <br>
 Peijun Bao, **Qian Zheng** and Yadong Mu* <br>
