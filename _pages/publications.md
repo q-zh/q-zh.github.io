@@ -67,7 +67,7 @@ Longxiang Shi, Shijian Li*, **Qian Zheng**, Longbing Cao, Long Yang, Min Yao, an
 *International Joint Conference on Neural Networks (IJCNN)*, 2020 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-ijcnn2020.pdf)\]
 
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
-**Qian Zheng#***, Yiming Jia#, Boxin Shi#, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng#***, Yiming Jia#, Boxin Shi*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, 2019 \[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-iccv2019.pdf)\]
 \[[code](https://github.com/yiming-j/SPLINE-Net)\]
