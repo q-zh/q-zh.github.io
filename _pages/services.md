@@ -20,7 +20,7 @@ Zhejiang University outstanding doctoral dissertation fellowship, 2017
 IEEE Transactions on Image Processing (TIP) <br>
 ACM Transactions on Multimedia Computing Communications and Applications (TOMM) <br>
 IEEE Access <br>
-IET Computer Vision} 
+IET Computer Vision <br>
 Institute of Electronics, Information and Communication Engineers (IEICE) <br>
 
 ### Conference reviewer
