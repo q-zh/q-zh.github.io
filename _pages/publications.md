@@ -13,7 +13,7 @@ redirect_from:
 Recent Papers
 ======
 **Single Image Reflection Removal with Absorption Effect** <br>
-**Qian Zheng***, Boxin Shi*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng****, Boxin Shi*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
 \[[poster]\]
