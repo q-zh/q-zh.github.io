@@ -13,7 +13,7 @@ redirect_from:
 Recent Papers
 ======
 **Single Image Reflection Removal with Absorption Effect** <br>
-**Qian Zheng***, Boxin Shi*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng\***, Boxin Shi\*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
 \[[poster]\]
@@ -62,7 +62,7 @@ Before 2021
 ==
 
 **What does Plate Glass Reveal about Camera Calibration** <br>
-**Qian Zheng***, Jinnan Chen, Zhan Lu, Boxin Shi*, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng\***, Jinnan Chen, Zhan Lu, Boxin Shi*, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2020 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr2020.pdf)\]
 \[[video](https://github.com/q-zh/q-zh.github.io/blob/master/papers/V-cvpr2020.mp4)\]
@@ -86,7 +86,7 @@ Longxiang Shi, Shijian Li*, **Qian Zheng**, Min Yao, and Gang Pan <br>
 
 
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
-**Qian Zheng***#, Yiming Jia#, Boxin Shi*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng\#\***, Yiming Jia#, Boxin Shi*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, 2019 \[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-iccv2019.pdf)\]
 \[[code](https://github.com/yiming-j/SPLINE-Net)\]
@@ -107,7 +107,7 @@ Pengfei Li, Hua Lu*, **Qian Zheng**, Shijian Li*, and Gang Pan <br>
 
 
 **Denoising Adversarial Nets for Rain Streak Removal and Reflection Removal** <br>
-**Qian Zheng***, Boxin Shi*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
+**Qian Zheng\***, Boxin Shi*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *IEEE International Conference on Image Processing (ICIP)*, 2019 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-icip2019.pdf)\]
 
 
