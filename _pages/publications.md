@@ -69,7 +69,7 @@ Before 2021
 \[[code](https://github.com/q-zh/GlassCalibration/)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
-Pengfei Li, Hua Lu*, **Qian Zheng**, Long Yang, and Gang Pan\* <br>
+Pengfei Li, Hua Lu\*, **Qian Zheng**, Long Yang, and Gang Pan\* <br>
 *ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD)*, 2020 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-sigmod2020.pdf)\]
 
 **Maximum Entropy Reinforcement Learning with Evolution Strategies** <br>
