@@ -21,7 +21,9 @@ IEEE Transactions on Image Processing (TIP) <br>
 ACM Transactions on Multimedia Computing Communications and Applications (TOMM) <br>
 IEEE Access <br>
 IET Computer Vision <br>
+The Visual Computer (TVCJ) <br>
 Institute of Electronics, Information and Communication Engineers (IEICE) <br>
+
 
 ### Conference reviewer
 
