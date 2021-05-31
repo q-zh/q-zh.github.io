@@ -32,6 +32,7 @@ International Conference on Computer Vision (ICCV) <br>
 International Joint Conference on Artificial Intelligence (IJCAI) <br>
 Asian Conference on Computer Vision (ACCV) <br>
 British Machine Vision Conference (BMVC) <br>
+International Conference on Image and Graphics (ICIG) <br>
 Winter Conference on Applications of Computer Vision (WACV) <br>
 International Conference on Intelligent Robots and Systems (IROS) <br>
 International Conference on Pattern Recognition (ICPR) <br>
