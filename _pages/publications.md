@@ -23,7 +23,7 @@ Recent Papers
 
 **Indoor Lighting Estimation using an Event Camera** <br>
 Zehao Chen#, **Qian Zheng#**, Peisong Niu, Huajin Tang, and Gang Pan\* <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-chen.pdf)\]
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper]\]
 \[[poster]\]
 \[[video]\]
 \[[code]\]
