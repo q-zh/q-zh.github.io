@@ -21,7 +21,14 @@ Recent Papers
 \[[code](https://github.com/q-zh/absorption)\]
 \[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-zheng.pdf)\]
 
-
+**Indoor Lighting Estimation using an Event Camera** <br>
+Zehao Chen\#, **Qian Zheng\#**, Peisong Niu, Huajin Tang, and Gang Pan\* <br>
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
+\[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-chen.pdf)\]
+<!-- \[[poster]\]
+\[[video]\]
+\[[code](https://github.com/q-zh/absorption)\]
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-zheng.pdf)\] -->
 
 **Panoramic Image Reflection Removal** <br>
 Yuchen Hong\#, **Qian Zheng\#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Boxin Shi\* <br>
