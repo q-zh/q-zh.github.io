@@ -28,7 +28,6 @@ Zehao Chen\#, **Qian Zheng\#**, Peisong Niu, Huajin Tang, and Gang Pan\* <br>
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr21-chen.pdf)\]
 \[[video](https://www.bilibili.com/video/BV19f4y1t7Pr/)\]
 \[[demo (video)](https://www.bilibili.com/video/BV1n44y1z734/)\]
-<!-- \[[code]\] -->
 \[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr21-chen.pdf)\]
 
 **Panoramic Image Reflection Removal** <br>
@@ -36,7 +35,6 @@ Yuchen Hong\#, **Qian Zheng\#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Box
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-hong.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr21-hong.pdf)\]
 \[[video](https://www.bilibili.com/video/BV1TV411x7ET/)\]
-<!-- \[[code]\] -->
 \[[demo (video)](https://www.bilibili.com/video/BV1T44y1z7xf/)\]
 \[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr21-hong.pdf)\]
 
