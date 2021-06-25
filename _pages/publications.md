@@ -16,27 +16,29 @@ Recent Papers
 **Qian Zheng\***, Boxin Shi\*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-zheng.pdf)\]
-\[[poster]\]
-\[[video]\]
+\[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr21-zheng.pdf)\]
+\[[video](https://www.bilibili.com/video/BV1U54y1H7pb/)\]
 \[[code](https://github.com/q-zh/absorption)\]
-\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-zheng.pdf)\]
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr21-zheng.pdf)\]
 
 **Indoor Lighting Estimation using an Event Camera** <br>
 Zehao Chen\#, **Qian Zheng\#**, Peisong Niu, Huajin Tang, and Gang Pan\* <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-chen.pdf)\]
-<!-- \[[poster]\]
-\[[video]\]
-\[[code](https://github.com/q-zh/absorption)\]
-\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-zheng.pdf)\] -->
+\[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr21-chen.pdf)\]
+\[[video](https://www.bilibili.com/video/BV19f4y1t7Pr/)\]
+\[[demo (video)](https://www.bilibili.com/video/BV1n44y1z734/)\]
+<!-- \[[code]\] -->
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr21-chen.pdf)\]
 
 **Panoramic Image Reflection Removal** <br>
 Yuchen Hong\#, **Qian Zheng\#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Boxin Shi\* <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/blob/master/papers/C-cvpr21-hong.pdf)\]
-\[[poster]\]
-\[[video]\]
-\[[code]\]
-\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr20-hong.pdf)\]
+\[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr21-hong.pdf)\]
+\[[video](https://www.bilibili.com/video/BV1TV411x7ET/)\]
+<!-- \[[code]\] -->
+\[[demo (video)](https://www.bilibili.com/video/BV1T44y1z7xf/)\]
+\[[supp](https://github.com/q-zh/q-zh.github.io/blob/master/papers/S-cvpr21-hong.pdf)\]
 
 **Dense Events Grounding in Video** <br>
 Peijun Bao, **Qian Zheng** and Yadong Mu\* <br>
@@ -66,7 +68,7 @@ Before 2021
 **Qian Zheng\***, Jinnan Chen, Zhan Lu, Boxin Shi\*, Xudong Jiang, Kim-Hui Yap, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2020 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-cvpr2020.pdf)\]
-\[[video](https://github.com/q-zh/q-zh.github.io/blob/master/papers/V-cvpr2020.mp4)\]
+\[[video](https://www.bilibili.com/video/BV1RV411s7Vk/)\]
 \[[code](https://github.com/q-zh/GlassCalibration/)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
