@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (ROSE lab, directed by [Prof. Alex Chichung Kot](https://www.ntu.edu.sg/home/eackot/) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University (NTU) and works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
+Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (ROSE lab, directed by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/index.html) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University (NTU) and works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
 His research interests include physics-inspired computer vision (reflectance modeling and its applications), neural rendering, reinforcement learning, and brain-inspired computing.
 
 Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University (ZJU) in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
@@ -20,6 +20,7 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 News
 ======
+One paper was accepted by **TIST 2021!** <br>
 One paper was accepted by **IJCAI 2021!** <br>
 Three papers were accepted by **CVPR 2021!** <br>
 Three papers were accepted by **AAAI 2021!** <br>
