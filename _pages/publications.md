@@ -90,7 +90,7 @@ Longxiang Shi, Shijian Li\*, **Qian Zheng**, Min Yao, and Gang Pan <br>
 **Qian Zheng\#\***, Yiming Jia\#, Boxin Shi\*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, 2019 \[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
 \[[poster](https://github.com/q-zh/q-zh.github.io/blob/master/papers/P-iccv2019.pdf)\]
-\[[code](https://github.com/yiming-j/SPLINE-Net)\]
+\[[code](https://github.com/q-zh/SPLINE-Net)\]
 
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
