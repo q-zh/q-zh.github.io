@@ -20,11 +20,12 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 News
 ======
-One paper was accepted by **TIST 2021!** <br>
-One paper was accepted by **IJCAI 2021!** <br>
-Three papers were accepted by **CVPR 2021!** <br>
-Three papers were accepted by **AAAI 2021!** <br>
-One paper was accepted by **TNNLS 2021!** <br>
+One paper was accepted to **PR 2021!** <br>
+One paper was accepted to **TIST 2021!** <br>
+One paper was accepted to **IJCAI 2021!** <br>
+Three papers were accepted to **CVPR 2021!** <br>
+Three papers were accepted t0 **AAAI 2021!** <br>
+One paper was accepted to **TNNLS 2021!** <br>
 
 Call for long-time interns
 ======
