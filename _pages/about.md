@@ -20,6 +20,8 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 News
 ======
+One paper was accepted to **AAAI 2022!** <br>
+One paper was accepted to **EI 2022!** <br>
 One paper was accepted to **PR 2021!** <br>
 One paper was accepted to **TIST 2021!** <br>
 One paper was accepted to **IJCAI 2021!** <br>
