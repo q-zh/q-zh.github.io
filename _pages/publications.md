@@ -15,8 +15,8 @@ Recent Papers
 **Single Image Reflection Removal with Absorption Effect** <br>
 **Qian Zheng\***, Boxin Shi\*, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
-\[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-cvpr21-zheng.pdf)\]
-\[[poster](https://github.com/q-zh/q-zh.github.io/papers/P-cvpr21-zheng.pdf)\]
+\[[paper](https://github.com/papers/C-cvpr21-zheng.pdf)\]
+\[[poster](https://github.com/papers/P-cvpr21-zheng.pdf)\]
 \[[video](https://www.bilibili.com/video/BV1U54y1H7pb/)\]
 \[[code](https://github.com/q-zh/absorption)\]
 \[[supp](https://github.com/q-zh/q-zh.github.io/S-cvpr21-zheng.pdf)\]
@@ -24,31 +24,31 @@ Recent Papers
 **Indoor Lighting Estimation using an Event Camera** <br>
 Zehao Chen\#, **Qian Zheng\#**, Peisong Niu, Huajin Tang, and Gang Pan\* <br>
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 
-\[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-cvpr21-chen.pdf)\]
-\[[poster](https://github.com/q-zh/q-zh.github.io/papers/P-cvpr21-chen.pdf)\]
+\[[paper](https://github.com/papers/C-cvpr21-chen.pdf)\]
+\[[poster](https://github.com/papers/P-cvpr21-chen.pdf)\]
 \[[video](https://www.bilibili.com/video/BV19f4y1t7Pr/)\]
 \[[demo (video)](https://www.bilibili.com/video/BV1n44y1z734/)\]
-\[[supp](https://github.com/q-zh/q-zh.github.io/papers/S-cvpr21-chen.pdf)\]
+\[[supp](https://github.com/papers/S-cvpr21-chen.pdf)\]
 
 **Panoramic Image Reflection Removal** <br>
 Yuchen Hong\#, **Qian Zheng\#**, Lingran Zhao, Xudong Jiang, Alex C. Kot and Boxin Shi\* <br>
-*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-cvpr21-hong.pdf)\]
-\[[poster](https://github.com/q-zh/q-zh.github.io/papers/P-cvpr21-hong.pdf)\]
+*In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2021 \[[paper](https://github.com/papers/C-cvpr21-hong.pdf)\]
+\[[poster](https://github.com/papers/P-cvpr21-hong.pdf)\]
 \[[video](https://www.bilibili.com/video/BV1TV411x7ET/)\]
 \[[demo (video)](https://www.bilibili.com/video/BV1T44y1z7xf/)\]
-\[[supp](https://github.com/q-zh/q-zh.github.io/papers/S-cvpr21-hong.pdf)\]
+\[[supp](https://github.com/papers/S-cvpr21-hong.pdf)\]
 
 **Dense Events Grounding in Video** <br>
 Peijun Bao, **Qian Zheng** and Yadong Mu\* <br>
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-aaai21-bao.pdf)\]
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/papers/C-aaai21-bao.pdf)\]
 
 **Sample Complexity of Policy Gradient Finding Second-Order Stationary Points** <br>
 Long Yang, **Qian Zheng**, and Gang Pan\* <br>
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-aaai21-yang1.pdf)\]
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/papers/C-aaai21-yang1.pdf)\]
 
 **On Convergence of Gradient Expected Sarsa $\lambda$**   <br>
 Long Yang, Gang Zheng, Yu Zhang, **Qian Zheng**, Pengfei Li, and Gang Pan\* <br>
-*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/papers/C-aaai21-yang2.pdf)\]
+*AAAI Conference on Artificial Intelligence (AAAI)*, 2021 \[[paper](https://github.com/papers/C-aaai21-yang2.pdf)\]
 
 **Learning with Generated Teammates to Achieve Type-Free Ad-Hoc Teamwork** <br>
 Dong Xing, Qianhui Liu, **Qian Zheng**, and Gang Pan\* <br>
@@ -57,7 +57,7 @@ Dong Xing, Qianhui Liu, **Qian Zheng**, and Gang Pan\* <br>
 
 **An Off-Policy Trust Region Policy Optimization Method With Monotonic Improvement Guarantee for Deep Reinforcement Learning** <br>
 Wenjia Meng, **Qian Zheng**, Yue Shi, and Gang Pan\* <br>
-*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021 \[[paper](https://github.com/q-zh/q-zh.github.io/papers/J-TNNLS21.pdf)\]
+*IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021 \[[paper](https://github.com/papers/J-TNNLS21.pdf)\]
 
 Before 2021
 ==
