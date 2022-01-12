@@ -20,7 +20,7 @@ Recent Papers
 \[[paper](https://q-zh.github.io/papers/C-cvpr21-zheng.pdf)\]
 \[[poster](https://q-zh.github.io/papers/P-cvpr21-zheng.pdf)\]
 \[[video](https://www.bilibili.com/video/BV1U54y1H7pb/)\]
-\[[code](https://q-zh.github.io/q-zh/absorption)\]
+\[[code](https://github.com/q-zh/absorption)\]
 \[[supp](https://q-zh.github.io/papers/S-cvpr21-zheng.pdf)\]
 
 **Indoor Lighting Estimation using an Event Camera** <br>
@@ -69,7 +69,7 @@ Before 2021
 *In Proc. of Computer Vision and Pattern Recognition (CVPR)*, 2020 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_What_Does_Plate_Glass_Reveal_About_Camera_Calibration_CVPR_2020_paper.pdf)\]
 \[[poster](https://q-zh.github.io/q-zh/q-zh.github.io/papers/P-cvpr2020.pdf)\]
 \[[video](https://www.bilibili.com/video/BV1RV411s7Vk/)\]
-\[[code](https://q-zh.github.io/q-zh/GlassCalibration/)\]
+\[[code](https://github.com/q-zh/GlassCalibration/)\]
 
 **LISA: A Learned Index Structure for Spatial Data** <br>
 Pengfei Li, Hua Lu\*, **Qian Zheng**, Long Yang, and Gang Pan\* <br>
@@ -92,12 +92,12 @@ Longxiang Shi, Shijian Li\*, **Qian Zheng**, Min Yao, and Gang Pan <br>
 **Qian Zheng\#\***, Yiming Jia\#, Boxin Shi\*, Xudong Jiang, Ling-Yu Duan, and Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, 2019 \[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]
 \[[poster](https://q-zh.github.io/papers/P-iccv2019.pdf)\]
-\[[code](https://q-zh.github.io/q-zh/SPLINE-Net)\]
+\[[code](https://github.com/q-zh/SPLINE-Net)\]
 
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar\*, Boxin Shi, and Gang Pan <br>
-*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](https://q-zh.github.io/papers/J-TIP2019.pdf)\] \[[code](https://q-zh.github.io/q-zh/numerical-ps/)\]
+*IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](https://q-zh.github.io/papers/J-TIP2019.pdf)\] \[[code](https://github.com/q-zh/numerical-ps/)\]
 
 **Qualitative Measurements of Policy Discrepancy for Return-based Deep Q-Network** <br>
 Wenjia Meng, **Qian Zheng**, Long Yang, Pengfei Li, and Gang Pan\* <br>
