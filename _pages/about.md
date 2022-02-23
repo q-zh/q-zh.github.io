@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have joined Zhejiang University. My new homepage could be found from [here](https://person.zju.edu.cn/en/qzh).
+I have joined Zhejiang University. My new homepage could be found from [https://person.zju.edu.cn/en/qzh](https://person.zju.edu.cn/en/qzh).
 
 
 About me
