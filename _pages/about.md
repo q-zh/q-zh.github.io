@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have joined Zhejiang University in Feb. 2022. My new homepage is [https://person.zju.edu.cn/qzh](https://person.zju.edu.cn/qzh).
+I joined Zhejiang University in Feb. 2022. My new homepage is [https://person.zju.edu.cn/qzh](https://person.zju.edu.cn/qzh).
 
 
 About me
