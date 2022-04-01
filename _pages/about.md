@@ -12,7 +12,7 @@ I joined Zhejiang University in Feb. 2022. My new homepage is [https://person.zj
 
 About me
 ======
-Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (ROSE lab, directed by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/index.html) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University (NTU) and works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
+Qian Zheng is a Research Professor in the College of Computer Science, Zhejiang University. He was a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (ROSE lab, directed by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/index.html) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University (NTU) and works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/) during 2018 and 2022.
 His research interests include physics-inspired computer vision (reflectance modeling and its applications), neural rendering, reinforcement learning, and brain-inspired computing.
 
 Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University (ZJU) in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
@@ -22,6 +22,7 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 News
 ======
+One paper was accepted to **CVPR 2022!** <br>
 One paper was accepted to **AAAI 2022!** <br>
 One paper was accepted to **EI 2022!** <br>
 One paper was accepted to **PR 2021!** <br>
