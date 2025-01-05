@@ -23,5 +23,6 @@ Two papers were accepted to **NeurIPS 2024!** Congrats to Mengting and Hangchi! 
 One paper was accepted to **ICML 2024!** Congrats to Juntao! <br> 
 One paper was accepted to **CVPR 2024!** Congrats to Zongrui!<br>
 One paper was accepted to **ACM MM 2024!** Congrats to Zehao!<br>
+Three papers were accepted to **AAAI 2024!** Congrats to Lu Zhan, Zhanfeng, Guo Wei!<br>
 
 
