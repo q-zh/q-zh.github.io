@@ -18,6 +18,7 @@ Before joining Zhejiang University, he was a Research Fellow at [Rapid-Rich Obje
 
 Recent News
 ======
+One paper was accepted to **ICLR 2025!** Congrats to Juntao! <br> 
 Three papers were accepted to **AAAI 2025!**  Congrats to Zehao and Haojie! <br> 
 Two papers were accepted to **NeurIPS 2024!** Congrats to Mengting and Hangchi! <br>
 One paper was accepted to **ICML 2024!** Congrats to Juntao! <br> 
