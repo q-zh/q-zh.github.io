@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my homepage! My name is Qian Zheng. I am a tenure-track professor (doctoral supervisor, "100 Talents Program") at the College of Computer Science and Technology, Zhejiang University. I received B.E. (2011) and Ph.D. (2017) degrees in computer science from Zhejiang University, China. From 2018 to 2022, I served as a Research Fellow at the ROSE Lab, Nanyang Technological University. I was a recipient of the ACM Rising Star Award (Hangzhou Chapter, 2024) and currently serve as an Associate Editor for journals of IEEE Transactions on Cognitive and Developmental Systems and Neurocomputing.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **neuromorphic computing** and **computer vision**. I have co-authored over 60 peer-reviewed papers, including 11 papers in the IEEE
+journals and 31 papers in top conferences CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: One paper was accepted to **ICML 2025!** Congrats to Jiaqi! 🎉🎉
+- *2025.04*: One paper was accepted to **IJCAI 2025!** Congrats to Mengxu! 🎉🎉
+- *2025.03*: One paper was accepted to **TPAMI 2025!** Congrats to Xiaoyao and Zongrui! 🎉🎉 The paper is reported by the official media ([Chinese](https://mp.weixin.qq.com/s/KgD0CBmAIwcAlwEvNGBb2g)) of the School of Mechanical Engineering, Zhejiang University.
+- *2025.02*: One paper was accepted to **ICLR 2025!** Congrats to Juntao! 🎉🎉
+- *2024.12*: Three papers were accepted to **AAAI 2025!**  Congrats to Zehao and Haojie! 🎉🎉  
+<!-- 
 
 # 📝 Publications 
 
@@ -48,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
