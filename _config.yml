@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Welcome"
-description              : "Qian Zheng's Personal Homepage "
 repository               : "QianZheng/q-zh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,8 +24,6 @@ author:
   avatar           : "images/zq.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
-  employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ztWK59MAAAAJ"
   email            : "qianzheng@zju.edu.cn"
   researchgate     : 
@@ -50,7 +47,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           : 
   twitter          : 
   vine             :
   weibo            :
