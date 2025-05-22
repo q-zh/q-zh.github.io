@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my homepage! My name is Qian Zheng. I am a tenure-track professor (doctoral supervisor, "100 Talents Program") at the College of Computer Science and Technology, Zhejiang University. I received B.E. (2011) and Ph.D. (2017) degrees in computer science from Zhejiang University, China. From 2018 to 2022, I served as a Research Fellow at the ROSE Lab, Nanyang Technological University. I was a recipient of the ACM Rising Star Award (Hangzhou Chapter, 2024) and currently serve as an Associate Editor for journals of IEEE Transactions on Cognitive and Developmental Systems and Neurocomputing.
 
 My research interests include **neuromorphic computing** and **computer vision**. I have co-authored over 60 peer-reviewed papers, including 11 papers in the IEEE
-journals and 31 papers in top conferences CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI.<a href='https://scholar.google.com/citations?user=ztWK59MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+journals and 32 papers in top conferences CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/IJCAI. <a href='https://scholar.google.com/citations?user=ztWK59MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
