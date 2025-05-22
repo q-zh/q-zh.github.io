@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome"
-# description              : Homepage # "Qian Zheng's Personal Homepage "
+description              : "" # "Qian Zheng's Personal Homepage "
 repository               : "QianZheng/q-zh.github.io"
 google_scholar_stats_use_cdn : true
 
