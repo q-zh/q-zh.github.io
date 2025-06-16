@@ -75,7 +75,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #A72569;
+	color: #0ACCBC;
 	text-decoration: none;
 }
 
@@ -181,11 +181,11 @@ div#footer {
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #c0c0c0;
+	color: #0ACCBC;
 }
 
 div#footer a {
-	color: #80a0b0;
+	color: #0ACCBC;
 }
 
 div#footer-text {
@@ -294,26 +294,26 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #000070;
+	color: #0ACCBC;
 }
 
 span.statement {
-	color: #008800;
+	color: #0ACCBC;
 }
 span.builtin {
-	color: #000088;
+	color: #0ACCBC;
 }
 span.special {
-	color: #990000;
+	color: #0ACCBC;
 }
 span.operator {
-	color: #880000;
+	color: #0ACCBC;
 }
 span.error {
-	color: #aa0000;
+	color: #0ACCBC;
 }
 span.comment, span.comment > *, span.string, span.string > * {
-	color: #606060;
+	color: #0ACCBC;
 }
 
 @media print {
