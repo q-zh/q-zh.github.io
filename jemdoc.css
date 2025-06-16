@@ -75,7 +75,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #0ACCBC;
+	color: #075c6e;
 	text-decoration: none;
 }
 
@@ -84,11 +84,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #0ACCBC;
+	color: #075c6e;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #0ACCBC;
+	color: #075c6e;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -136,7 +136,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #0ACCBC;
+	color: #075c6e;
 	margin-top: 0.7em;
 	margin-bottom: 0.5em;
 	padding-bottom: 0.2em;
@@ -181,11 +181,11 @@ div#footer {
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #0ACCBC;
+	color: #075c6e;
 }
 
 div#footer a {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 
 div#footer-text {
@@ -259,7 +259,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #0ACCBC;
+	color: #075c6e;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -294,26 +294,26 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 
 span.statement {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 span.builtin {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 span.special {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 span.operator {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 span.error {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 span.comment, span.comment > *, span.string, span.string > * {
-	color: #0ACCBC;
+	color: #075c6e;
 }
 
 @media print {
