@@ -199,6 +199,13 @@ ul, ol, dl {
 	margin-bottom: 0.8em;
 }
 
+dl{
+clear:left;
+}
+dt,dd{
+float:left;
+}
+
 dt {
 	margin-top: 0.5em;
 	margin-bottom: 0;
