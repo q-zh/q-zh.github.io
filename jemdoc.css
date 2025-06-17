@@ -199,32 +199,6 @@ ul, ol, dl {
 	margin-bottom: 0.8em;
 }
 
-dd {
-    margin: 0;
-}
-dd::after {
-    content: '\A';
-    white-space: pre-line;
-}
-dd:last-of-type::after {
-    content: '';
-}
-dd, dt {
-    display: inline;
-}
-dd, dt, .address {
-    vertical-align: middle;
-}
-dt {
-    font-weight: bolder;
-}
-dt::after {
-    content: ': ';
-}
-.address {
-    display: inline-block;
-    white-space: pre;
-}
 
 
 ul {
