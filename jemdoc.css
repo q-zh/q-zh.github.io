@@ -374,6 +374,17 @@ table.imgtable, table.imgtable td {
 }
 
 
+ dl {
+    width: 300px; /* 设定 dl 的宽度，以便观察效果 */
+  }
+
+  dt, dd {
+    display: inline; /* 或者 white-space: nowrap; */
+    margin: 0; /* 移除默认 margin */
+    padding: 0; /* 移除默认 padding */
+  }
+  
+
 
 <style>
         * {
