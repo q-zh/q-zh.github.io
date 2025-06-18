@@ -14,7 +14,7 @@ table#tlayout {
   background-color: white; /* 设置背景颜色 */
   border: 1px solid black; /* 设置线条 */
   border-radius: 8px; /* 设置圆角 */
-  border-spacing: 2px 10px;
+  border-spacing: 2px 2px;
 }
 /*
 body {
