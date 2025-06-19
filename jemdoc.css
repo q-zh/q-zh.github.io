@@ -16,6 +16,8 @@ table#tlayout {
   border-radius: 8px; /* 设置圆角 */
   border-spacing: 2px 2px;
 }
+
+
 /*
 body {
 	background: white;
@@ -441,6 +443,21 @@ li {
 
 td li b{
 	color:blue;
+}
+
+div#about ul{
+	color:#123580;
+	margin-top: -13px;
+}
+
+div#about li{
+	color:black;
+	margin-top: 1px;
+}
+
+div#about li b{
+	color:#123580;
+
 }
 
 
