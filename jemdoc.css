@@ -206,7 +206,7 @@ h2 + h3 {
 
 h3 {
 	font-size: 100%;
-	color: #084954;
+	color: black;
 	border-bottom: none;
 }
 
@@ -442,7 +442,7 @@ li {
 
 
 td li b{
-	color:blue;
+	color:#B00E00;
 }
 
 div#about ul{
