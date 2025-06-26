@@ -247,22 +247,6 @@ ul, ol, dl {
 	margin-bottom: 0.8em;
 }
 
-dt {
-	margin-top: 0.5em;
-	margin-bottom: 0;
-}
-
-dl {
-	margin-left: 20px;
-}
-
-dd {
-	color: #222222;
-}
-
-dd > *:first-child {
-	margin-top: 0;
-}
 
 ul {
 	list-style-position: outside;
@@ -471,8 +455,55 @@ div#about li b{
     margin: 0;
     font-size: 15px;
 }*/
+dd::after {
+    content: '\A';
+    white-space: pre-line;
+}
+dd:last-of-type::after {
+    content: '';
+}
+dd, dt {
+    /*display: inline;*/
+    font-family: Georgia;
+}
+dd, dt, .address {
+    vertical-align: middle;
+}
+dt{
+    font-weight: bolder;
+    /*font-size: 18px;*/
+    margin-top: 0.5em;
+    vertical-align: middle;
+    color:#042261;
+}
+dt::after {
+    content: ' ';
+}
+ .address {
+    display: inline-block;
+    white-space: pre;
+dd .list {
+ text-indent:50px;
+}
 
 
+
+/*dt {
+	margin-top: 0.5em;
+	margin-bottom: 0;
+}
+
+dl {
+	margin-left: 20px;
+}
+
+dd {
+	color: #222222;
+}
+
+dd > *:first-child {
+	margin-top: 0;
+}*/
 
 
 
