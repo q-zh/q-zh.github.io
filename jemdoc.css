@@ -196,6 +196,7 @@ h1 {
 }
 
 h2 {
+	color:#B00E00;
 	padding-top: 0.8em;
 	font-size: 125%;
 }
@@ -206,7 +207,7 @@ h2 + h3 {
 
 h3 {
 	font-size: 100%;
-	color: black;
+	color: #123580;
 	border-bottom: none;
 }
 
@@ -461,4 +462,45 @@ div#about li b{
 }
 
 /*#123580;*/
+
+/*dl {
+   margin-inline: 0px;
+}*/
+
+/*dd {
+    margin: 0;
+    font-size: 15px;
+}*/
+dd::after {
+    content: '\A';
+    white-space: pre-line;
+}
+dd:last-of-type::after {
+    content: '';
+}
+dd, dt {
+    /*display: inline;*/
+    font-family: Georgia;
+}
+dd, dt, .address {
+    vertical-align: middle;
+}
+dt{
+    font-weight: bolder;
+    /*font-size: 18px;*/
+    vertical-align: middle;
+    color:#042261;
+}
+dt::after {
+    content: ' ';
+}
+ .address {
+    display: inline-block;
+    white-space: pre;
+dd .list {
+ text-indent:50px;
+}
+
+
+
 
