@@ -469,6 +469,8 @@ dd, dt {
 dd, dt, .address {
     vertical-align: middle;
 }
+
+
 dt{
     font-weight: bolder;
     /*font-size: 18px;*/
