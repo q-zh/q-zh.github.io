@@ -6,7 +6,7 @@ table#tlayout {
     background: white;
     font-size: 15px;
 /*    display: inline;*/
-    font-family: Georgia, serif;
+    font-family:  "Aptos", "Aptos Display", sans-serif;
     color: black;
     margin-block: 10px;
     font-weight: normal;
@@ -37,7 +37,7 @@ html {
 }
 
 body { 
-  font-family: Georgia, serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   color: #000;
   background-color: #ffffff; 
   text-align:left; /* for IE */
@@ -94,7 +94,7 @@ tt {
 
 pre, tt {
 	font-size: 100%;
-	font-family: monaco, monospace;
+	/*font-family:  "Aptos", "Aptos Display", sans-serif;*/
 }
 
 /*a, a > tt {
@@ -464,7 +464,7 @@ dd:last-of-type::after {
 }
 dd, dt {
     /*display: inline;*/
-    font-family: Georgia;
+    /*font-family:  "Aptos", "Aptos Display", sans-serif;*/
 }
 dd, dt, .address {
     vertical-align: middle;
