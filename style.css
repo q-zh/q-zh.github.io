@@ -34,7 +34,7 @@ dd:last-of-type::after {
 }
 dd, dt {
     display: inline;
-    font-family: Georgia;
+    font-family: "Trebuchet MS", Helvetica;
 }
 dd, dt, .address {
     vertical-align: middle;
